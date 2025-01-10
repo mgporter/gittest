@@ -3,4 +3,4 @@
 
 I will add a little more!
 
-Now I am learning git amend
+Now I am learning git amend. This is some more text.
