@@ -5,3 +5,5 @@ This text was added from the main brnach. That's right!! was added on the newbra
 ffmerge text yay!!
 
 Actually I meant this- to do a soft reset
+
+Edited from the z-book
