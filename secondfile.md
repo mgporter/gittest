@@ -15,3 +15,5 @@ Adding some stuff from gittest2
 Third addition from g1
 
 More from g2
+
+Fourth addition from g1
