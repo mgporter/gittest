@@ -7,3 +7,5 @@ ffmerge text yay!!
 Actually I meant this- to do a soft reset
 
 Edited from the z-book
+
+edited from gitest1
