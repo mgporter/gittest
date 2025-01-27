@@ -8,6 +8,6 @@ Actually I meant this- to do a soft reset
 
 Edited from the z-book
 
-edited from gitest1
+Second edit from frist gittest
 
 Adding some stuff from gittest2
